@@ -3,9 +3,9 @@
 <title>My title</title>
 <body>
     <header>
-      <h1>Dogs vs. Cats</h1>
-      <nav id='top-menu'>
-      <ul class='menu'>
+      <h1>Dogs vs. Cats</h1><header>
+      <nav id='top-menu'><nav> 
+      <ul class='menu'><ul> 
       <li><a href="http://zacharykaiser.github.io/webspring-2014-2/2.html#slide-143">photos</a></li>
         <li><a href="http://zacharykaiser.github.io/webspring-2014-2/2.html#slide-143">About</a></li>
         <li><a href="http://zacharykaiser.github.io/webspring-2014-2/2.html#slide-143">Submit</a></li>
@@ -29,6 +29,6 @@ h4>images and copy from wiki commons</h4>
 
 
 h4>copyright ©2011 Martha Rettig</h4>
-
+</body>
 
 
