@@ -58,12 +58,12 @@ table {
 <body>
 
 h1{ font-size:40px;
-	font-family:helvetica:;
+	font-family:helvetica;
 	height-line:4;
-	
-
 
 }
+ (p) {float-left:;
+ }
 
 </body>
 
