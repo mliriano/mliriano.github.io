@@ -53,10 +53,10 @@ table {
 
 /* END RESET */
 
-
+{centered}
 
 body{
-	font-family: helvetica, arial, sans-serif;
+	font-family: helvetica, futura, sans-serif;
 }
 h1{
 	font-size:  160%;
@@ -80,7 +80,7 @@ article{
 img{
 	float:left;
 	width:150px;
-	padding:0px 20px 20px 0px;
+	padding:0px 30px 30px 0px;
 }
 #main-content{
 	width:960px;
