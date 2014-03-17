@@ -82,8 +82,14 @@ img.small {width:100px;
            height:100px
            float:right;
 }
+h1{font-family:bold
+   font-size:18px;
 
-
+}
+h2{font-size:10px
+font-family:italic;
+}
+ 
 
 
 
