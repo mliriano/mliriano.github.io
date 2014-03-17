@@ -72,13 +72,13 @@ h1{ font-size:40px;
 
 {font-family:Helvetica;}
 
-img 'images/llama1.png'.medium{width:250px;
-           height:250px;           
+img src ='images/llama1.png'.medium {width:250px;
+                                height:250px;           
 }
 
-img 
-{float:right;
+img src='images/llama1.png'{float:right;
 }
+
 
 
 
