@@ -72,5 +72,30 @@ table {
 .clearfix { display: inline-block; }
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
+nav {text-align:
+	position:top;
+
+}
+
+#dog img{
+	width:100%;
+	height:100%;
+	margin-left: 50px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

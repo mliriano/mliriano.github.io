@@ -53,9 +53,10 @@ table {
 
 /* END RESET */
 
-{centered}
+
 
 body{
+	text-alien:center;
 	font-family: helvetica,futura, sans-serif;
 }
 h1{
