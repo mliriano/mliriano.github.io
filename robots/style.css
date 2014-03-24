@@ -57,12 +57,7 @@ body {
 	margin:0 auto;
 }
 
-#site-header{
-	position:relative;
-	height:120px;
-	width:100%;
-	background-color:#d5deb4;
-}
+
 
 #site-header h1{
 	position:absolute;
