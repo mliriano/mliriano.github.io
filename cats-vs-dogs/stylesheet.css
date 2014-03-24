@@ -111,12 +111,15 @@ article{
 
 }
 
-#menu {width:800px;
+#menu ul {width:800px;
 	   height:50px;
-	   border-top-style: solid;
-	   border-bottom-style:solid;
+	   border-top-style:2px;
+	   border-bottom-style:2px;
 	   border-width:2px;
-	   display:inline;
+	   position:relative;
+	   border-color:#000000;
+	   text-align: center;
+
 
 }
 
