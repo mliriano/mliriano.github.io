@@ -60,7 +60,7 @@ body {
 	position:relative;
 	height:120px;
 	width:100%;
-	background-color:lightgreen;
+	background-color:limegreen;
 }
 
 
@@ -74,7 +74,7 @@ body {
 
 #site-header h1 a{
 	position:absolute;
-	background: url('images/logo.png') top left no-repeat;
+	background: url('imagelimes/logo.png') top left no-repeat;
 	width:350px;
 	height:150px;
 	text-indent: -9999px;
