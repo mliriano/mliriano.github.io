@@ -60,21 +60,21 @@ body {
 	position:relative;
 	height:120px;
 	width:100%;
-	background-color:lime;
+	background-color:lightgreen;
 }
 
 
 #site-header h1{
 	position:absolute;
-	width:354px;
-	height:124px;
+	width:350px;
+	height:120px;
 	left:158px;
 	display:block;
 }
 
 #site-header h1 a{
 	position:absolute;
-	background: url('imagelimes/logo.png') top left no-repeat;
+	background: url('images/logo.png') top left no-repeat;
 	width:350px;
 	height:150px;
 	text-indent: -9999px;
