@@ -60,22 +60,12 @@ table {
 
 
 /* Clearfix */
-.clearfix:after {
-	content: ".";
-	display: block;
-	clear: both;
-	visibility: hidden;
-	line-height: 0;
-	height: 0;
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
 }
- 
-.clearfix { display: inline-block; }
-html[xmlns] .clearfix { display: block; }
-* html .clearfix { height: 1%; }
-nav {text-align:
-	position:top;
 
-}
 
 body{
 	margin:0 auto;
@@ -128,7 +118,7 @@ article{
 
 #top-menu li {margin:10px;
 	      padding:10px;
-          display: inline;
+          float:left;
 
 }
 
