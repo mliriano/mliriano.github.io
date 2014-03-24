@@ -104,10 +104,12 @@ article{
 
 #dog {float:left;
 	padding-right:20px;
+	width:500px;
 
 }
 
 #yay-the-cat {float:left;
+	          width:500px;
 
 }
 
