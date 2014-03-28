@@ -104,6 +104,8 @@ body{margin:0 auto;
 }
 #side-bar{float:left;
 	      position:relative;
+	      width:3in
+	      left:980px;
 }
 
 
