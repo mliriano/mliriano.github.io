@@ -69,7 +69,7 @@ body{margin:0 auto;
 	     font-family:helvetica;
 	     color:#5C4025;
 	     text-decoration:none;
-	     
+
 
 }
 #menu-wrapper{background-color:#5C4025;
@@ -92,11 +92,7 @@ body{margin:0 auto;
 	             list-style-position:center; 
 	             margin-top:150px;
 	             list-style-type:none;
-
-
-
-
-
+	             text-align:center;
 }
 
 
