@@ -75,6 +75,7 @@ body{margin:0 auto;
 	          height:0.5in;
 	          width:100%;
 	          position:relative;
+	          text-decoration:none
 }
 
 #menu-wrapper li{float:left;
