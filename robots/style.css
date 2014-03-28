@@ -71,7 +71,7 @@ body{margin:0 auto;
 	     text-decoration:none;
 
 }
-#menu-wrapper{background-color:#DFE6C5;
+#menu-wrapper{background-color:#5C4025;
 	          height:0.5in;
 	          width:100%;
 	          position:relative;
@@ -85,7 +85,13 @@ body{margin:0 auto;
 
 }
 #menu-wrapper ul{text-align:center;
-	           list-style-position:center; 
+	             list-style-position:center; 
+	             margin-top:70px;
+	             
+
+
+
+
 }
 
 
