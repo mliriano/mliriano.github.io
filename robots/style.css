@@ -95,16 +95,14 @@ body{margin:0 auto;
 	             text-align:center;
 }
 
+#page{float:left;
+	 position:relative;
 
 
-
-
-
-
-
-
-
-
+}
+#side-bar{float:left;
+	      position:relative;
+}
 
 
 
