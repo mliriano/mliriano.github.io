@@ -71,6 +71,27 @@ body{margin:0 auto;
 	     text-decoration:none;
 
 }
+#menu-wrapper{background-color:#DFE6C5;
+	          height:0.5in;
+	          width:100%;
+	          position:relative;
+}
+
+#menu-wrapper li{float:left;
+	             margin:10px;
+                 padding:10px 22px;
+                font-family:Helvetica;
+                text-transform:uppercase; 
+
+}
+#menu-wrapper {text-align:center;
+	             list-style-position:center; 
+}
+
+
+
+
+
 
 
 
