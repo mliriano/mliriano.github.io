@@ -84,8 +84,8 @@ body{margin:0 auto;
                 text-transform:uppercase; 
 
 }
-#menu-wrapper {text-align:center;
-	             list-style-position:center; 
+#menu-wrapper ul{text-align:center;
+	           list-style-position:center; 
 }
 
 
