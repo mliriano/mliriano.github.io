@@ -97,15 +97,17 @@ body{margin:0 auto;
 
 #page{float:left;
 	 position:relative;
-	 width:1in
-	 
+	 width:3.5in;
+	 padding-left:200px
+
 	 
 
 
 }
 #side-bar{float:left;
 	      position:relative;
-	      width:1in
+	      width:3.5in;
+	       padding-left:200px
 	 
 }
 
