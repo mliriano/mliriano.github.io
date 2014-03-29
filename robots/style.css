@@ -51,6 +51,7 @@ body{margin:0 auto;
 
 }
 
+
 #site-header h1 img{ padding-left:200px;
 
 }
@@ -93,6 +94,11 @@ body{margin:0 auto;
 	             margin-top:150px;
 	             list-style-type:none;
 	             text-align:center;
+}
+
+#main-menu a{
+	text-decoration: none;
+	color:#ffffff;
 }
 
 #page{float:left;
