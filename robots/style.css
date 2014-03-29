@@ -103,8 +103,11 @@ body{margin:0 auto;
 
 #page{float:left;
 	 position:relative;
-	 width:3.5in;
-	 padding-left:70px
+	 height:150px;
+	 width:100%;
+     position:absolute;
+     top:30px;
+	          
 
 	 
 
