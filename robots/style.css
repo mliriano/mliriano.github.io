@@ -110,7 +110,7 @@ body{margin:0 auto;
      padding-left:240px;
 
 }
-#side-bar{float:left;
+#side-bar article {float:left;
 	      position:relative;
 	      height:200px;
 	      width:980px;
