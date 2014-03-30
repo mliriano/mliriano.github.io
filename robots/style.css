@@ -103,17 +103,20 @@ body{margin:0 auto;
 
 #page{float:left;
 	 position:relative;
-	 height:150px;
-	 width:3.5in;
-     padding-top:1in;
+	 height:200px;
+	 width:2.5in;
+     padding-top:300px;
+     padding-bottom:200px;
+     padding-left:240px;
 
 }
 #side-bar{float:left;
-	      padding-left:70px;
 	      position:relative;
-	      height:150px;
-	      width:3.5in;
-          padding-top:1in;
+	      height:200px;
+	      width:2.5in;
+          padding-top:300px;
+          padding-bottom:200px;
+          padding-left:240px;
 	 
 }
 #footer-wrapper 
