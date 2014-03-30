@@ -110,13 +110,13 @@ body{margin:0 auto;
      padding-left:240px;
 
 }
-#side-bar article {float:left;
+#side-bar{float:left;
 	      position:relative;
 	      height:200px;
 	      width:980px;
           padding-top:300px;
           padding-bottom:200px;
-          padding-left:4000px;
+          padding-left:300000px;
 	 
 }
 
