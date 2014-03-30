@@ -111,12 +111,12 @@ body{margin:0 auto;
 
 }
 #side-bar{float:left;
-	      position:relative;
+	      position:absolute;
 	      height:200px;
 	      width:980px;
           padding-top:300px;
           padding-bottom:200px;
-          padding-left:300000px;
+          padding-left:2000px;
 	 
 }
 
