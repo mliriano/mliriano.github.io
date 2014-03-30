@@ -109,9 +109,11 @@ body{margin:0 auto;
 
 }
 #side-bar{float:left;
+	      padding-left:70px;
 	      position:relative;
+	      height:150px;
 	      width:3.5in;
-	       padding-left:70px
+          padding-top:1in;
 	 
 }
 #footer-wrapper 
