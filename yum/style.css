@@ -52,29 +52,22 @@ table {
 
 
 /* END RESET */
+body{text-decoration:border;
+     text-align:center 
+ }
 
-h {font-style:italics;
-	
-}
-h4{<div class= "column_top"> <h4>1 1/2 cup granulated sugar butter</h4>
-      <h4>2 eggs</h4>
-      <h4>1/4 cup lemon juice</h4>
-      <h4>1 tsp freshly grated lemon zest</h4>
-      <h4>1/4 tsp kosher salt</h4>
-      <h4>1/2 tsp baking powder</h4>
-      <h4>2 1/2 cup all-purpose flour</h4>
-      <h4>powdered sugar dusting</h4> 
-      <br>
+ h {font-style:italics;
+   font-family:baskerville-bold;
 
 }
-<li><h>{<ol><dstep1</li>
-	<li>Line 2 baking sheets</li>
-	<li>Line 2 baking sheets In the bowl of a standing mixer on meduim speed, cream the butter and sugar together until well blended.</li>
-    <li>With the mixer on low spee, add eggs, one at a time, until blended. Add lemon juice and zest, mixing until blended.</li>
-    <li> Add salt, baking powder and flour and mix until blended.</li>
-    <l><h>6  Drop by rounded scoopfuls onto prepared baking sheets and bake until edges are firm with no color, 12-15 mins.</h></li>
-    <li></li>
-} 
+#ingredients h4 {font-style:intalic;
+                 line-height:3px;
+
+}
+#nav top {float: right;
+	      position:absolute;
+
+}
 
 
 
