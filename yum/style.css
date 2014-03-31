@@ -67,7 +67,9 @@ body{text-decoration:none;
 }
 h2{position: relative;
    font-size:30px;
-   padding-left:400px
+   padding-left:400px;
+   line-height:65px;
+
 
 
 
