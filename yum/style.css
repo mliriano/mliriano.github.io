@@ -74,10 +74,14 @@ h2{position: relative;
 
 
 }
-li{text-decoration:none;
+
+
+
+
+#directions li{list-style:none;
 	line-height:15px;
 	font-family:helevetica;
-	background:light-blue; 
+	background:blue; 
 	padding-left:400px
 	
 	
