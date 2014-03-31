@@ -69,10 +69,6 @@ h2{position: relative;
    font-size:30px;
    padding-left:400px;
    line-height:65px;
-   width:3in;
-
-
-
 }
 
 
@@ -82,7 +78,8 @@ h2{position: relative;
 	line-height:15px;
 	font-family:helevetica;
 	background:teal; 
-	padding-left:400px
+	padding-left:400px;
+	 width:3in;
 	
 	
 
