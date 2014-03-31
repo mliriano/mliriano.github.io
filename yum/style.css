@@ -74,7 +74,7 @@ h2{position: relative;
 
 
 
-#directions li{list-style:none;
+#directions {list-style:none;
 	line-height:15px;
 	font-family:helevetica;
 	 padding-left:400px;
