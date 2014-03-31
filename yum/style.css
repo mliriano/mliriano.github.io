@@ -65,8 +65,7 @@ body{text-decoration:none;
                  line-height:30px;
                  padding-left:400px
 }
-h2{float:left;
-   position:relative;
+h2{position: relative;
    font-size:30px;
    padding-left:400px
 
@@ -78,8 +77,8 @@ li{text-decoration:none;
 	font-family:helevetica;
 	background:light-blue; 
 	padding-left:400px
-	line-width:3in
-	;
+	
+	
 
 }
 
