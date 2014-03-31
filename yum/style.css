@@ -58,6 +58,7 @@ body{text-decoration:none;
 
  h {font-style:italics;
    font-family:baskerville-bold;
+   padding-left:400px
 
 }
 #ingredients h4 {font-style:intalic;
@@ -77,6 +78,7 @@ li{text-decoration:none;
 	font-family:helevetica;
 	background:light-blue; 
 	padding-left:400px
+	width:3in;
 
 }
 
