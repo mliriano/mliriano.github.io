@@ -52,7 +52,7 @@ table {
 
 
 /* END RESET */
-body{text-decoration:border;
+body{text-decoration:none;
      text-align:center 
  }
 
@@ -64,8 +64,8 @@ body{text-decoration:border;
                  line-height:3px;
 
 }
-#nav top {float: right;
-	      position:absolute;
+#nav top {float:left;
+	      position:relative;
 
 }
 
