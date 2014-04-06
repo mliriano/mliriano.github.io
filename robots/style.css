@@ -113,13 +113,13 @@ body{margin:0 auto;
 
 
 }
-#sidebar {float:right;
+#sidebar {float:left;
 	width:2.2in;
 	padding-top: 200px;
 	padding-right: 240px;
 	padding-bottom: 200px;
 	padding-left:15px;
-	position:absolute;
+	position:relative;
 
 
 	 
