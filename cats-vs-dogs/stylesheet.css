@@ -64,6 +64,10 @@ article {
 	margin:0 2.5%;
 }
 
+header{font-family:League Gothic;
+	   font-size:30px;
+
+}
 #top-menu {
 	text-align:center;
 	list-style-position:center; 
