@@ -94,11 +94,15 @@ header{font-family:League Gothic;
   clear: both;
 
 }
+.vs{font-family:georgia;
+	font-style:italic;
+	font-weight:bold;
+}
 
 .group h4 {font-size: 20px;
 	       font-family:baskerville;
 	       font-style:bold:underline;
-
+	       line-height:20px; 
 }
 
 
