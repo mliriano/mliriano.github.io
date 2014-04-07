@@ -78,11 +78,12 @@ header{font-family:League Gothic;
 	text-align:center;
 	list-style-position:center;
 	position:relative; 
+	margin-left:460px;
 }
 
 #top-menu li {
 	float:left;
-    margin:500px;
+    margin:10px;
     padding:10px 22px;
     font-family:Helvetica;
     text-transform:uppercase;
