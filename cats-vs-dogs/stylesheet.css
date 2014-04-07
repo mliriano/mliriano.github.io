@@ -80,7 +80,8 @@ header{font-family:League Gothic;
     margin:10px;
     padding:10px 22px;
     font-family:Helvetica;
-    text-transform:uppercase; 
+    text-transform:uppercase;
+    text-align:center;  
 }
 
 #footer-left {
