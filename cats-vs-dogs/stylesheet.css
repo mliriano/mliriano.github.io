@@ -96,8 +96,8 @@ header{font-family:League Gothic;
 }
 
 .group h4 {font-size: 20px;
-	       font-family:helvetica;
-	       font-style:bold
+	       font-family:baskerville;
+	       font-style:bold:underline;
 
 }
 
