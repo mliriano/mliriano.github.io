@@ -68,7 +68,7 @@ article {
 }
 
 header{font-family:League Gothic;
-	   font-size:100px;
+	   font-size:160px;
 	   text-align:center;
 	   position:relative;
 
@@ -80,6 +80,8 @@ header{font-family:League Gothic;
 	margin-left:200px;
 	margin-right:200px;
 	text-decoration: none;
+	font-family:baskerville;
+	font-weight:bold;
 }
 
 #top-menu li {
@@ -111,8 +113,9 @@ header{font-family:League Gothic;
 
 .group h4 {font-size: 20px;
 	       font-family:baskerville;
-	       font-style:bold:underline;
-	       line-height:20px; 
+	       font-style:underline;
+	       line-height:60px;
+	       font-weight:bold; 
 }
 
 
