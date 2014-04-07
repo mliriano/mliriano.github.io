@@ -48,6 +48,7 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+	position: relative;
 }
 
 
@@ -56,23 +57,27 @@ table {
 body {
 	width:960px;
 	margin:0 auto;
+	position: relative;
 }
 
 article {
 	float:left;
 	width:45%;
 	margin:0 2.5%;
+	position:relative;
 }
 
 header{font-family:League Gothic;
 	   font-size:80px;
 	   color:grey;
 	   text-align:center;
+	   position:relative;
 
 }
 #top-menu {
 	text-align:center;
-	list-style-position:center; 
+	list-style-position:center;
+	position:relative; 
 }
 
 #top-menu li {
@@ -82,11 +87,13 @@ header{font-family:League Gothic;
     font-family:Helvetica;
     text-transform:uppercase;
     text-align:center;  
+    position:relative;
 }
 
 #footer-left {
 	float:left;
 	width:40%;
+	position: relative;
 }
 
 .group:after {
