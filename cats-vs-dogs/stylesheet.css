@@ -56,9 +56,8 @@ table {
 
 body {
 	width:960px;
+	margin:0 auto;
 	position: relative;
-	margin-left:200px;
-	margin-right:200px;
 }
 
 article {
@@ -66,8 +65,7 @@ article {
 	width:45%;
 	margin:0 2.5%;
 	position:relative;
-	margin-left:200px;
-	margin-right:200px;
+	
 }
 
 header{font-family:League Gothic;
@@ -95,15 +93,12 @@ header{font-family:League Gothic;
     text-transform:uppercase;
     text-align:center;  
     position:relative;
-
 }
 
 #footer-left {
 	float:left;
 	width:40%;
 	position: relative;
-	margin-left:200px;
-	margin-right:200px;
 }
 
 .group:after {
@@ -122,8 +117,6 @@ header{font-family:League Gothic;
 	       font-style:underline;
 	       line-height:60px;
 	       font-weight:bold; 
-	       margin-left:200px;
-	       margin-right:200px;
 }
 
 
