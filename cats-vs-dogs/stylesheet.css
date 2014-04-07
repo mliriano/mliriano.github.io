@@ -65,7 +65,7 @@ article {
 	width:45%;
 	margin:0 2.5%;
 	position:relative;
-	
+
 }
 
 header{font-family:League Gothic;
@@ -117,6 +117,11 @@ header{font-family:League Gothic;
 	       font-style:underline;
 	       line-height:60px;
 	       font-weight:bold; 
+}
+
+#dog {margin-left:200px;
+	margin-right:200px;
+
 }
 
 
