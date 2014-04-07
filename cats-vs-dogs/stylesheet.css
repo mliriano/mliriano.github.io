@@ -66,7 +66,7 @@ article {
 
 header{font-family:League Gothic;
 	   font-size:80px;
-	   font-style:blue;
+	   color:grey;
 	   text-align:center;
 
 }
@@ -90,9 +90,17 @@ header{font-family:League Gothic;
 
 .group:after {
   content: "";
-  display: table;
+  display:table;
   clear: both;
+
 }
+
+.group h4 {font-size: 20px;
+	       font-family:helvetica;
+	       font-style:bold
+
+}
+
 
 @font-face {
     font-family: 'League Gothic';
