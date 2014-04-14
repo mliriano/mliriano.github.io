@@ -56,10 +56,15 @@ body {background-color:#494848;}
 
 #h1{letter-spacing:5px;}
 
-#title{font-style:Brothers;
+#title{font-style:Brothers sans-serif;
 	  font-size: 25px;
 	  color:#7AE0FF;
 
+}
+
+img{
+	width:40%;
+	height:60%;
 }
 
 #h1{letter-spacing:5px;}
