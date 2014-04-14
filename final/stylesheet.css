@@ -51,10 +51,14 @@ table {
 
 /* END RESET */
 
+.box {border: 10px solid #494848;
+}
+
 #h1{}
 
 #title{font-style:Brothers;
 	  font-size: 25px;
+	  color:aqua;
 
 }
 
